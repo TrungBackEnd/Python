@@ -6,3 +6,5 @@ for i in range(1, 6):
 
 print("Done!")
 print("All tasks completed.")
+
+print("This is the end of the program.")
