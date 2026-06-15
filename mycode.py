@@ -10,3 +10,5 @@ print("All tasks completed.")
 print("This is the end of the program.")
 
 print("Goodbye!")
+
+print("Have a great day!")
