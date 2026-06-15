@@ -3,7 +3,6 @@ for i in range(1, 6):
     
     print("1" * i)
 print("Done!")
-<<<<<<< HEAD
 print("All tasks completed.")
 <<<<<<< HEAD
 print("This is the end of the program.")
@@ -16,6 +15,3 @@ print("Hello from GitHub Web")
 
 print("This is the end of the program.")
 >>>>>>> parent of 621eb20 (Update mycode.py)
-=======
-print("All tasks completed.")
->>>>>>> parent of 707beea (Last)
